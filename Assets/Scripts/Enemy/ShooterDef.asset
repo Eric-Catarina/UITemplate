@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 334b756d1c5d93645a27864d7a363542, type: 3}
+  m_Name: ShooterDef
+  m_EditorClassIdentifier: 
+  currentHealth: 80
+  maxHealth: 80
+  movementSpeed: 5
+  movesInSin: 1
+  lookAtPlayer: 1
+  movesTowardPlayer: 0
+  shoots: 1
+  power: 85
+  sinFrequency: 5
+  sinAmplitude: 6
+  damage: 1
+  possibleItemDrops: []
+  rarities:
+  - 70
+  - 20
+  - 10

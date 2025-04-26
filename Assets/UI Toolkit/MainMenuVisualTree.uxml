@@ -1,0 +1,24 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=60a4b899f609c3a009088810be8d1c87&amp;type=3#MainMenuStyle" />
+    <ui:VisualElement name="Container" style="flex-grow: 1;">
+        <ui:VisualElement name="Header" style="flex-grow: 1; align-items: center; justify-content: space-around; align-self: center; background-color: rgb(167, 233, 153); max-height: 20%; min-width: 100%; max-width: 20%;">
+            <ui:Label tabindex="-1" text="This is the UI Toolkit UI" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Title" class="header" style="align-items: stretch; font-size: 60px; -unity-font: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=cac2709310b10e443b08d45196ff2c90&amp;type=3#NotInter-Regular&quot;); -unity-font-style: bold; text-shadow: 3px 3px 4px rgba(0, 0, 0, 0);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Body" style="flex-grow: 1; background-color: rgb(212, 217, 185); flex-direction: row;">
+            <ui:VisualElement name="LeftSide" style="flex-grow: 1; max-width: 30%; background-color: rgb(100, 168, 100); justify-content: center;">
+                <ui:GroupBox style="justify-content: center;">
+                    <ui:Button text="PLACEHOLDER" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" style="background-color: rgba(255, 255, 255, 0); background-image: url(&quot;project://database/Assets/UI/UIButtons/b_3.png?fileID=2800000&amp;guid=2541c754146735d06b1e6cef866dee0a&amp;type=3#b_3&quot;); height: 125px;" />
+                    <ui:Button text="PLACEHOLDER" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" style="background-color: rgba(255, 255, 255, 0); background-image: url(&quot;project://database/Assets/UI/UIButtons/b_3.png?fileID=2800000&amp;guid=2541c754146735d06b1e6cef866dee0a&amp;type=3#b_3&quot;); height: 125px;" />
+                    <ui:Button text="PLACEHOLDER" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" style="background-color: rgba(255, 255, 255, 0); background-image: url(&quot;project://database/Assets/UI/UIButtons/b_3.png?fileID=2800000&amp;guid=2541c754146735d06b1e6cef866dee0a&amp;type=3#b_3&quot;); height: 125px;" />
+                    <ui:Button text="PLACEHOLDER" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" style="background-color: rgba(255, 255, 255, 0); background-image: url(&quot;project://database/Assets/UI/UIButtons/b_3.png?fileID=2800000&amp;guid=2541c754146735d06b1e6cef866dee0a&amp;type=3#b_3&quot;); height: 125px;" />
+                    <ui:Button text="PLACEHOLDER" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Button" style="background-color: rgba(255, 255, 255, 0); background-image: url(&quot;project://database/Assets/UI/UIButtons/b_3.png?fileID=2800000&amp;guid=2541c754146735d06b1e6cef866dee0a&amp;type=3#b_3&quot;); height: 125px;" />
+                </ui:GroupBox>
+            </ui:VisualElement>
+            <ui:VisualElement name="RightSide" style="flex-grow: 1; max-width: 80%; background-color: rgb(100, 165, 168); justify-content: space-around; align-items: center; -unity-background-scale-mode: scale-to-fit;">
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" style="background-image: url(&quot;project://database/Assets/UI/UIButtons/f.png?fileID=2800000&amp;guid=a75d81de52acf278693f3b48a982e339&amp;type=3#f&quot;); -unity-background-scale-mode: scale-to-fit; min-width: 90%; min-height: 90%; background-color: rgba(188, 188, 188, 0); align-items: center; justify-content: center; -unity-text-align: middle-center;">
+                    <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" style="background-image: url(&quot;project://database/Assets/UI/UIButtons/s1.png?fileID=2800000&amp;guid=2ac16141f832065b9825ad2a545b1bb0&amp;type=3#s1&quot;); background-color: rgba(188, 188, 188, 0); -unity-background-scale-mode: scale-to-fit; min-width: 30%; min-height: 30%;" />
+                </ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
