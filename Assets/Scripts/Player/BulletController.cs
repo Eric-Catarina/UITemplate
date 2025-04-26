@@ -17,7 +17,7 @@ public class BulletController : MonoBehaviour
     public GameObject player;
     private GameManager gameManager;
     private CinemachineImpulseSource impulseSource;
-    private 
+
     void Start()
     {
         lifeTimeCounter = lifeTime;
@@ -78,7 +78,8 @@ public class BulletController : MonoBehaviour
         // Check if collider have tag Item
         if (collider.gameObject.CompareTag("Item") && !isEnemyBullet) return;
 
-        gameManager.GetComponent<SoundManager>().PlaySFX(8);
+        SoundManager soundManager = GameObject.Find("GameManager").GetComponent<SoundManager>();
+        soundManager.PlaySFX(8);
         gameManager.SpawnHitEffect(transform.position);
         gameManager.gameObject.GetComponent<CameraShakeManager>().CameraShake(impulseSource, 0.05f);   
         Destroy(gameObject);

@@ -16,7 +16,7 @@
             </ui:VisualElement>
             <ui:VisualElement name="RightSide" style="flex-grow: 1; max-width: 80%; background-color: rgb(100, 165, 168); justify-content: space-around; align-items: center; -unity-background-scale-mode: scale-to-fit;">
                 <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" style="background-image: url(&quot;project://database/Assets/UI/UIButtons/f.png?fileID=2800000&amp;guid=a75d81de52acf278693f3b48a982e339&amp;type=3#f&quot;); -unity-background-scale-mode: scale-to-fit; min-width: 90%; min-height: 90%; background-color: rgba(188, 188, 188, 0); align-items: center; justify-content: center; -unity-text-align: middle-center;">
-                    <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" style="background-image: url(&quot;project://database/Assets/UI/UIButtons/s1.png?fileID=2800000&amp;guid=2ac16141f832065b9825ad2a545b1bb0&amp;type=3#s1&quot;); background-color: rgba(188, 188, 188, 0); -unity-background-scale-mode: scale-to-fit; min-width: 30%; min-height: 30%;" />
+                    <ui:Button text="&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" style="background-image: url(&quot;project://database/Assets/UI/UIButtons/s1.png?fileID=2800000&amp;guid=2ac16141f832065b9825ad2a545b1bb0&amp;type=3#s1&quot;); background-color: rgba(188, 188, 188, 0); -unity-background-scale-mode: scale-to-fit; min-width: 30%; min-height: 30%; -unity-background-image-tint-color: rgb(255, 255, 255); -unity-text-outline-color: rgba(0, 0, 0, 0);" />
                 </ui:Button>
             </ui:VisualElement>
         </ui:VisualElement>

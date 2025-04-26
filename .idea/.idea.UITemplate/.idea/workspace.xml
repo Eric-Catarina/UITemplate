@@ -1,12 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ed27da6b-910c-481d-b46f-ce2e401322b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI Toolkit/PanelSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI Toolkit/PanelSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/button UI.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/button UI.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UITemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UITemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/Warzone SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/Warzone SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Materials/BackgroundEstrelas1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Materials/BackgroundEstrelas1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/AllyGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/AllyGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Amarelo.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Amarelo.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Azul.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Azul.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/BlueTransparentGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/BlueTransparentGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/BossBulet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/BossBulet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/BulletGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/BulletGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/EnemyBulletGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/EnemyBulletGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/EnemyGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/EnemyGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/ItemGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ItemGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Laranja.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Laranja.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Item.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Item.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Player.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Player.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_ProjetilPlayer 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_ProjetilPlayer 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_ProjetilPlayer.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_ProjetilPlayer.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_Scene01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_Scene01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_arma.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_arma.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/M_explosao.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/M_explosao.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/PlayerGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Preto.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Preto.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/ShredderMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ShredderMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/ShredderOlhoMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/ShredderOlhoMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/TrailBulletGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/TrailBulletGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/TrailBulletGlowEnemy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/TrailBulletGlowEnemy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/space-cruiser-panels1-unity/Materials/space-cruiser-panels_preview.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/space-cruiser-panels1-unity/Materials/space-cruiser-panels_preview.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/—Pngtree—explosion_561406.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/—Pngtree—explosion_561406.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuInicial.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuInicial.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/BulletController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/BulletController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ShieldBubble.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/ShieldBubble.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/URP_things/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/URP_things/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/Background.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/Background.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/DarkDefault.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/DarkDefault.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/FleshSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/FleshSurface.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/MetalSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/MetalSurface.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/SandSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/SandSurface.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/StoneSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/StoneSurface.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/WoodSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Materials/WoodSurface.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Models/Materials/MazeLowMan.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Models/Materials/MazeLowMan.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Models/Materials/No Name.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Models/Materials/No Name.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Models/Materials/ShooterFPSWeapon.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnityTechnologies/EffectExamples/Shared/Models/Materials/ShooterFPSWeapon.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/Boss_VFX_Explosion.vfx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/Boss_VFX_Explosion.vfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/VFX_Explosion.vfx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/VFX_Explosion.vfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VFX/VFX_Shot_hit.vfx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VFX/VFX_Shot_hit.vfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/preFabs/Enemy/Shooter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/preFabs/Enemy/Shooter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/preFabs/Enemy/Shredder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/preFabs/Enemy/Shredder.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +82,9 @@
     &quot;accountId&quot;: &quot;9b772acd-6814-4627-a575-09bfee8d94b9&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/UI/ButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -106,14 +163,17 @@
       <updated>1745615819250</updated>
       <workItem from="1745615819685" duration="2000" />
       <workItem from="1745616346491" duration="312000" />
+      <workItem from="1745627283711" duration="3208000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
   </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
